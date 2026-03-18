@@ -996,9 +996,8 @@ $140K ┤
 
 ### **The Certification Effect**
 ```python
-No Certs: $141,723 ─┐
+No Certs: $141,723  ─┐
 1-2 Certs: $142,160 ─┼─ Barely different
-│
 3-5 Certs: $149,075 ─┘ BIG JUMP!
 ```
 
